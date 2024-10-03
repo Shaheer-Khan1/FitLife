@@ -6,7 +6,7 @@ const Home = () => {
     <div style={styles.container}>
       <video autoPlay muted loop style={styles.backgroundVideo}>
         <source src="./Fitness.mp4" type="video/mp4" />
-        Your browser doees not support the video tag.
+        Your browser does not support the video tag.
       </video>
       <div style={styles.content}>
         <h1 style={styles.heading}>Welcome to Your Health & Fitness Hub</h1>
